@@ -71,41 +71,40 @@ body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. 
 
 [params.three]
 enable = true
-title = 'Accumsan mus tortor nunc aliquet'
+title = 'About Me'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+This is where I will put information about random interests, hobies, education, etc. etc.
 '''
 
 [[params.three.feature]]
 icon = "fa-paper-plane"
-title = "Arcu accumsan"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Education"
+body = "This is where I will put information about my education"
 
 [[params.three.feature]]
 icon = "solid fa-laptop"
-title = "Ac Augue Eget"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Hobies"
+body = "This is where I will put information about my hobies"
 
 [[params.three.feature]]
 icon = "solid fa-code"
-title = "Foo bar"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "InfoSec Stuff"
+body = "This is where I will put information about my interests within this field"
 
 [[params.three.feature]]
 icon = "solid fa-headphones-alt"
-title = "Baz kram"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Placeholder 1"
+body = "Placeholder 1.1"
 
 [[params.three.feature]]
 icon = "fa-heart"
-title = "Some latin text"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Placeholder 2"
+body = "Placeholder 2.2"
 
 [[params.three.feature]]
 icon = "fa-flag"
-title = "Nothing important"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Placeholder 3"
+body = "Placeholder 3.3"
 
 [params.cta]
 enable = false
