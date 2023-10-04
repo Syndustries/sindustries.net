@@ -6,9 +6,9 @@ paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = "Storm Strange" # title for frontpage, may include image
-copyright = "Storm Strange"
-description = 'Aspiring Hacker'
+fancyTitle = "Syndariel" # title for frontpage, may include image
+copyright = "Storm S"
+description = 'Purveyor of Shitposting'
 #startbuttonText = "Activate"
 #startbuttonLink = "#"
 body_is_markdown = true
