@@ -83,7 +83,7 @@ body = "This is where I will put information about my education"
 
 [[params.three.feature]]
 icon = "solid fa-laptop"
-title = "Hobies"
+title = "Hobbies"
 body = "This is where I will put information about my hobies"
 
 [[params.three.feature]]
