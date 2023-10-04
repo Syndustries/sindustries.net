@@ -13,3 +13,9 @@
 .wrapper.style3 {
     background-color: #303030;
 }
+.wrapper.style3 h2 {
+    color: #ffe3f1;
+}
+.wrapper.style3 header.major p {
+    color:#ffe3f1;
+}
